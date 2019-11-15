@@ -1,7 +1,11 @@
 #Wyldlyfe Trckr
-## Available Scripts
 
-In the project directory, you can run:
+### Initial -this is for future reference
+```sh
+    create-react-app wyldlyfe_trckr
+    yarn add --dev @testing-library/react
+    yarn add --dev cypress
+```
 
 ### `yarn start`
 
