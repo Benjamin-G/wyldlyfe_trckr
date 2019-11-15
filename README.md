@@ -5,6 +5,7 @@
     create-react-app wyldlyfe_trckr
     yarn add --dev @testing-library/react
     yarn add --dev cypress
+    yarn add axios 
 ```
 
 ### `yarn start`
